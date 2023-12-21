@@ -1,4 +1,4 @@
-# OVHcloud roadmap for OVHcloud Collaborative Tools (Email, VoIP...)
+# OVHcloud roadmap for Collaborative Tools (Email, VoIP...)
 
 ## Consulting roadmap and changelog
 OVHcloud now exposes a [central public roadmap and changelog for all its Hosting, Telco and Collaboration services as a GitHub Project](https://github.com/orgs/ovh/projects/18).
