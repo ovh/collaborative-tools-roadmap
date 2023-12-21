@@ -15,11 +15,11 @@ OVHcloud now exposes a [central public roadmap and changelog for all its Hosting
 - Please describe the feature in the shortest possible way, ideally as an agile user story.
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible.
 
-[ 🆕 Propose a new feature request - aka issue Collaborative tools](https://github.com/ovh/collaborative-tools-roadmap/issues/new)
+[ 🆕 Propose a new feature request - aka issue regarding Collaborative tools](https://github.com/ovh/collaborative-tools-roadmap/issues/new)
 
 Note : you can also create issues [regarding our Hosting and Domain names solutions here](https://github.com/ovh/hosting-domain-names-roadmap/issues/new)
 
-OVHcloud also offers cloud products and solutions [you will find our cloud roadmap and changelog here](https://github.com/orgs/ovh/projects/16?pane=info) . 
+OVHcloud also offers cloud products and solutions. [You will find our cloud roadmap and changelog here](https://github.com/orgs/ovh/projects/16?pane=info) . 
 
 ## Notes/Disclaimer
 - New issues will be considered typically within a week and may be marked as **Aknowledged** if they align with our product strategy.
