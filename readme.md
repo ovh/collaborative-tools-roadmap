@@ -3,7 +3,7 @@
 ## Consulting roadmap and changelog
 OVHcloud now exposes a [central public roadmap and changelog for all its Hosting, Telco and Collaboration services as a GitHub Project](https://github.com/orgs/ovh/projects/18).
 
-[ ✅ View Changelog](https://github.com/orgs/ovh/projects/18/views/6) or [ 📅 View Roadmap](https://github.com/orgs/ovh/projects/18/views/1)
+[ ✅ View Changelog](https://github.com/orgs/ovh/projects/18/views/2) or [ 📅 View Roadmap](https://github.com/orgs/ovh/projects/18/views/1)
 
 - You can **subscribe to a given issue** to get email notifications when the feature is updated or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
